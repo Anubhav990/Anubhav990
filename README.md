@@ -26,7 +26,7 @@ I am a dedicated Fullstack Developer with a solid background in both frontend an
   <summary><h4> <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRmZTFoeDEybGZrMjBxOXA5Znd6ZWdhZ21nYjhrdjF1dzgxdGFzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPbS5R4fSUl5S/200.webp" width="29"/> Academics</h4></summary>
   <span><img src="https://img.shields.io/badge/BTECH-Chitkara University. Rajpura, India-1877F2?style=for-the-badge"></span>
    <br>
-  <span><img src="https://img.shields.io/badge/ZTM-Javascript Mastery. Rajpura, India-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Udemy-Javascript Mastery. ZTM, Online-1877F2?style=for-the-badge"></span>
  </details>
 
  <details>
