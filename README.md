@@ -66,8 +66,6 @@ I am a dedicated Fullstack Developer with a solid background in both frontend an
   <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/></a>
   <a href="https://mui.com/"><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/></a>
   <a href="https://tailblocks.cc/">
-    <img src="data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' class='w-10 h-10 text-white p-2 bg-indigo-500 rounded-full' viewBox='0 0 24 24'%3E%3Cpath d='M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5'/%3E%3C/svg%3E" alt="tailblocks.cc" style="width: 40px; height: 40px;"/>
-</a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></a>
   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-%237A1D1D.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
 
