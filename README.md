@@ -15,6 +15,26 @@
 I am a dedicated Fullstack Developer with a solid background in both frontend and backend technologies. My specialty lies in Web and Android Development, with a strong drive for continuous learning. I excel in integrating systems, refining user interfaces, and elevating overall user experiences. I enjoy tackling complex challenges and delivering innovative solutions.
 
 <details>
+  <summary>
+    <h2 align="center">
+      <img align ='center' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkzNmM5dGh0YXVoNmExZ29mZWU2Y3o3czhhbTh3a3diNXA5OThtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpOqvmCFdNMhF0pQb7/giphy.webp" width="37" /> Contact Me
+    </h2>
+  </summary>
+    <p>If you'd like to get in touch, feel free to connect with me through the following channels:</p>
+        <a href="mailto:singheshqpreet@gmail.com">
+          <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
+        <a href="https://www.linkedin.com/in/eshqpreet-singh-387956281/">
+          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="https://github.com/Eshqpreet">
+          <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+</details>
+
+<br>
+
+<details>
  <summary>
     <h2> 
       <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9taTEydnMwNXh5enpseXMzeHpib2o4M2hncDc5amZ4aWtzb2JtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" width="37" /> 
