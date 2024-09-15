@@ -47,7 +47,6 @@ I am a dedicated Fullstack Developer with a solid background in both frontend an
   </ul>
 
 </details>
-</details>
 <details>
   <summary>
     <h4>
@@ -97,3 +96,5 @@ I am a dedicated Fullstack Developer with a solid background in both frontend an
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
 
 </details>
+</details>
+
