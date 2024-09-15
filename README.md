@@ -30,8 +30,8 @@ I am a dedicated Fullstack Developer with a solid background in both frontend an
  <details>
   <summary>
     <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJoeW52bDM4Nndyc293ZXMzbG8yMmRpNmp3czlwN2NocDBpenZzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="29"/> Experience
-    
   </summary>
+   
   <p><strong>Fullstack Developer</strong> at AddPinch | 6 Months</p>
   <ul>
     <li>Developed new features in both web and app.</li>
