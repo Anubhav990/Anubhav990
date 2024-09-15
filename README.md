@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Anubhav990/Anubhav990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXE2Ymp2NDdvejg1d3NnYmU4MHBqajVmbWNqMWc5MWx1dWp2dTQxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPxg9U887PS0B8XT4J/giphy.webp" width="70px"/><br>
+  I'm Anubhav Gupta
+</h1>
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anubhav990&color=green" alt="Profile Views" style="height:21px;">
+  Fullstack Developer
+</h2>
+<div align="center">
+ <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzgzNDlvMXk2dDR4eTZrdnFudDZ2c3hvbndvamZuemx5YnE4dXJmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNVrFKZF3s61W/giphy.webp" />
+</div>
