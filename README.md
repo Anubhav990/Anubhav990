@@ -21,13 +21,13 @@ I am a dedicated Fullstack Developer with a solid background in both frontend an
     </h2>
   </summary>
     <p>If you'd like to get in touch, feel free to connect with me through the following channels:</p>
-        <a href="mailto:singheshqpreet@gmail.com">
+        <a href="mailto:anubhavg2k3@gmail.com">
           <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
         </a>
-        <a href="https://www.linkedin.com/in/eshqpreet-singh-387956281/">
+        <a href="https://www.linkedin.com/in/anubhav-gupta-2ba294235/">
           <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
-        <a href="https://github.com/Eshqpreet">
+        <a href="https://github.com/Anubhav990">
           <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
 </details>
