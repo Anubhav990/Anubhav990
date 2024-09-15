@@ -17,15 +17,14 @@ I am a dedicated Fullstack Developer with a solid background in both frontend an
 <details>
  <summary>
     <h2> 
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/about.png" width="37" /> 
+      <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9taTEydnMwNXh5enpseXMzeHpib2o4M2hncDc5amZ4aWtzb2JtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" width="37" /> 
     Resume
     </h2>
 </summary>
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
+  <summary><h4> <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRmZTFoeDEybGZrMjBxOXA5Znd6ZWdhZ21nYjhrdjF1dzgxdGFzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPbS5R4fSUl5S/200.webp" width="29"/> Academics</h4></summary>
+  <span><img src="https://img.shields.io/badge/BTECH-IIT Ropar-1877F2?style=for-the-badge"></span>
  </details>
 
  <details>
