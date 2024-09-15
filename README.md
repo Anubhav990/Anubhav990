@@ -36,7 +36,7 @@ I am a dedicated Fullstack Developer with a solid background in both frontend an
   <ul>
     <li>Developed new features in both web and app.</li>
     <li>Created a User, Admin Dashboard and authentication with PHP.</li>
-    <li>Worked on UI and Creating and Integrating various APIs.</li>
+    <li>Worked on UI, Creating mySQL queries and Integrating various APIs.</li>
   </ul>
 </details>
 </details>
